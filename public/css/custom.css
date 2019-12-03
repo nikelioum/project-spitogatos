@@ -1,0 +1,56 @@
+.navbar{
+	min-height: 56px;
+	background-color: #393e46;
+}
+
+.navbar-toggler{
+	color: #eeeeee !important;
+}
+
+.nav-link{
+	font-size: 20px;
+	color: #eeeeee !important;
+	font-weight: 700;
+}
+
+.nav-item.active a{
+	color: #00adb5!important;
+}
+
+.btn-navbar{
+	font-size: 20px;
+	font-weight: 700;
+}
+
+.metric-statistics{
+	margin-top: 50px;
+}
+
+.card-metric{
+	margin-top: 10px;
+	background-color: #00adb5;
+	color: #eeeeee!important;
+	border-style: none;
+}
+
+.metric-number{
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.seeall{
+	font-weight: 700;
+	color: #eeeeee !important;
+}
+
+.locations-table{
+	margin-top: 20px;
+}
+
+.metric-add{
+	margin-top: 50px;
+}
+
+.notifications{
+	margin-top: 15px;
+}
