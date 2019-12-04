@@ -1,9 +1,9 @@
 # project-spitogatos
-Backend with search form
-Installation 
+#Backend with search form
+#Installation 
 
-Download repository
-Open terminal
+#Download repository
+#Open terminal
 Go to project folder
 compose install
 php artisan serve
